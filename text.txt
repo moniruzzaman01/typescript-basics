@@ -1,0 +1,3 @@
+install typescript-> npm install -g typescript / sudo npm install --global typescript
+uninstall typescript-> sudo npm uninstall --global typescript
+initialize typescript-> tsc --init
